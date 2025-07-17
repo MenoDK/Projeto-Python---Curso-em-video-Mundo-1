@@ -15,3 +15,4 @@ if len(pilha) == 0:
 else:
     print()
     print('Sua expressão está inválida!')
+print()
